@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hafiz Muhammad Hamza Khalid
+# Hey, I'm Hafiz Muhammad Hamza Khalid
 
 **Business Development Intern @ U DEVS · BSCS Student @ Lahore Garrison University · Frontend Developer — React & JavaScript**
 
